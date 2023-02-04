@@ -1,0 +1,4 @@
+rootProject.name = 'ddd-uc11'
+include 'common'
+include 'cart'
+include 'order'
